@@ -2,3 +2,4 @@ cookies/
 BabySongs/
 __pycache__/
 *.pyc
+_backup_*/
